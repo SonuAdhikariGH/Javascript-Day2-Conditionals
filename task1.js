@@ -11,4 +11,3 @@ if(number % 2 === 0) {
 } else {
     console.log("The number",number,"is odd");
 }
-
